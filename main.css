@@ -1,0 +1,31 @@
+body {
+    background-color: lightgreen;
+  };
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+.dealerHand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    border: 10px;
+};
+
+.playerHand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    border: 10px;
+};
